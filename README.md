@@ -20,7 +20,7 @@ Ingeniera de Sistemas con amplia trayectoria en la creación de soluciones escal
 * **Nivel de Inglés:** **B2** - Fluidez para comunicación profesional y técnica.
 * **Especialidades:** Micro-frontends, ecosistemas de Angular/React y desarrollo de Core Bancario/Fintech.
 
-📄 **[Descargar mi Síntesis Curricular (PDF)](./carla_ramirez_react2.pdf)**
+📄 **[Descargar mi Síntesis Curricular (PDF)](./Carla Ramirez_purple.pdf)**
 
 ---
 
