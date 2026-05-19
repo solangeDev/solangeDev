@@ -4,7 +4,7 @@
 ---
 
 ## 🇺🇸 English Profile
-I am a Computer Engineer with **14 years of experience** building scalable enterprise solutions. I specialize in modern Front-End architectures and Full-Stack development, with a strong focus on performance and clean code.
+I am a Computer Engineer with **14 years of experience** building scalable enterprise solutions. I specialize in modern Front-End architectures and Full-Stack development, with a strong focus on performance, maintainability, and user experience.
 
 * **English Level:** **B2 (Upper Intermediate)** - Capable of professional communication and technical collaboration in English-speaking environments.
 * **Key Expertise:** Micro-frontends (Single-SPA), Angular, React, and Java/Spring Boot.
@@ -15,7 +15,7 @@ I am a Computer Engineer with **14 years of experience** building scalable enter
 ---
 
 ## 🇪🇸 Perfil en Español
-Ingeniera de Sistemas con amplia trayectoria en la creación de soluciones escalables. Mi enfoque principal es la arquitectura de Front-End moderna y el desarrollo Full-Stack, garantizando código mantenible y de alto rendimiento.
+Ingeniera de Sistemas con amplia trayectoria en la creación de soluciones escalables. Mi enfoque principal es la arquitectura de Front-End moderna y el desarrollo Full-Stack, garantizando código mantenible, alto rendimiento y excelente experiencia de usuario.
 
 * **Nivel de Inglés:** **B2** - Fluidez para comunicación profesional y técnica.
 * **Especialidades:** Micro-frontends, ecosistemas de Angular/React y desarrollo de Core Bancario/Fintech.
